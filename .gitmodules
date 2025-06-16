@@ -6,3 +6,6 @@
 	path = models
 	url = https://github.com/Simon-Bertrand/SAROPTReg-TranslatModels
 	branch = main
+[submodule "meow-sample"]
+	path = meow-sample
+	url = git@hf.co:datasets/SimB-dev/MEOW-example-sample
