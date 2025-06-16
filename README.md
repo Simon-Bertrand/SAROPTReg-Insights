@@ -10,7 +10,11 @@ Here is a brief explanation of the three main subfolders in this repository:
 
 - **meow-sample**  
     HuggingFace LFS project containing a sample of the MEOW data at high resolution.
-    
+Clone the repository : 
+```bash
+git clone git@github.com:Simon-Bertrand/SAROPTReg-Insights.git
+```
+
 Activate your Python env. and start by pulling all the repos :
 ```bash
 make pull
