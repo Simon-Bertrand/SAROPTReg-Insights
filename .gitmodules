@@ -1,6 +1,8 @@
 [submodule "meow-dataset"]
 	path = meow-dataset
 	url = git@github.com:Simon-Bertrand/MEOW.git
+	branch = main
 [submodule "models"]
 	path = models
 	url = https://github.com/Simon-Bertrand/SAROPTReg-TranslatModels
+	branch = main
